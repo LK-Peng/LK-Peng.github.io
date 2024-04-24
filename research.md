@@ -16,7 +16,7 @@ title: Research
 * Cai, H., Ren, H., Wu, Q., Peng, L., & Wen, C. (2018, December). Semi-supervised fast algorithm for seismic waveform classification. In International Geophysical Conference, Beijing, China, 24-27 April 2018 (pp. 1175-1179). Society of Exploration Geophysicists and Chinese Petroleum Society. [Link](https://doi.org/10.1190/IGC2018-287)
 
 
-## CONFERENCE PRESENTATIONS
+## Conference Presentations
 
 * 2023. Peng, Longkang. “Human labeling errors and their impact on ConvNets for satellite image scene classification.” Global Smart Cities Summit (GSCS 2023) cum The 3rd International Conference on Urban Informatics (ICUI 2023), Hong Kong.
 
