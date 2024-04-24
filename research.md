@@ -27,7 +27,7 @@ title: Research
 
 ## Conference Presentations
 
-* &amp;2023. Peng, Longkang. “Human labeling errors and their impact on ConvNets for satellite image scene classification.” Global Smart Cities Summit (GSCS 2023) cum The 3rd International Conference on Urban Informatics (ICUI 2023), Hong Kong.
+- &amp;2023. Peng, Longkang. “Human labeling errors and their impact on ConvNets for satellite image scene classification.” Global Smart Cities Summit (GSCS 2023) cum The 3rd International Conference on Urban Informatics (ICUI 2023), Hong Kong.
 
-* &amp;2021. Peng, Longkang. “Segmentation Network with Larger Receptive Field Cannot Benefit Cloud Detection Task.” The 28th International Conference on Geoinformatics (Geoinformatics 2021 - CPGIS Annual Conference), Nanchang, Jiangxi, China.
+- &amp;2021. Peng, Longkang. “Segmentation Network with Larger Receptive Field Cannot Benefit Cloud Detection Task.” The 28th International Conference on Geoinformatics (Geoinformatics 2021 - CPGIS Annual Conference), Nanchang, Jiangxi, China.
 
