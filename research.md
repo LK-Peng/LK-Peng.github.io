@@ -3,6 +3,15 @@ layout: page
 title: Research
 ---
 
+## Research Interests
+
+* Label Noise
+* Human Labeling
+* Convolutional Neural Network
+* Earth Observation
+* Intelligence
+
+
 ## Publications
 
 * Peng, L., Wei, T., Chen, X., Chen, X., Sun, R., Wan, L., Chen, J., & Zhu, X. (2023). Human-annotated label noise and their impact on ConvNets for remote sensing image scene classification. arXiv preprint arXiv:2305.12106. (Under review) [Link](https://arxiv.org/abs/2305.12106)

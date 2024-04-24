@@ -1,6 +1,6 @@
 # Setup
 title: Longkang Peng
-description: Ph.D. Candidate, Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University
+description: Ph.D. Candidate<br>Department of Land Surveying and Geo-Informatics,<br>The Hong Kong Polytechnic University
 url: https://lk-peng.github.io/
 avatar: /test.jpg
 paginate: 5
@@ -26,6 +26,7 @@ exclude:
   - README.md
   - scripts/
   - not-pure-poole.gemspec
+  - _posts  # do not show the post
 
 # Optimize Jekyl SEO Tag
 # twitter:
