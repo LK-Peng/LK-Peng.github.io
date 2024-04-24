@@ -1,6 +1,6 @@
 # Setup
 title: Longkang Peng
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+description: An average Joe
 url: https://lk-peng.github.io/
 avatar: /test.jpg
 paginate: 5
@@ -32,11 +32,11 @@ exclude:
 #   username: vszhub
 #   card: summary
 # logo: logo.png
-social:
-  name: Longkang Peng
-  links:
+# social:
+#   name: Longkang Peng
+#   links:
     # - https://twitter.com/vszhub
-    - https://github.com/LK-Peng
+    # - https://github.com/LK-Peng
 google_site_verification: xxxxx
 lang: en
 
@@ -53,7 +53,7 @@ sass:
 # disqus: xxxxxx
 
 # Specify the author for blog posts
-author:
-  name: Longkang Peng
-  url: https://github.com/LK-Peng
-  email: longkang.peng@connect.polyu.hk
+# author:
+#   name: Longkang Peng
+#   url: https://github.com/LK-Peng
+#   email: longkang.peng@connect.polyu.hk
