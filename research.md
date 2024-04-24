@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-# Publications
+## Publications
 
 * Peng, L., Wei, T., Chen, X., Chen, X., Sun, R., Wan, L., Chen, J., & Zhu, X. (2023). Human-annotated label noise and their impact on ConvNets for remote sensing image scene classification. arXiv preprint arXiv:2305.12106. (Under review) [Link](https://arxiv.org/abs/2305.12106)
 
@@ -16,7 +16,7 @@ title: Research
 * Cai, H., Ren, H., Wu, Q., Peng, L., & Wen, C. (2018, December). Semi-supervised fast algorithm for seismic waveform classification. In International Geophysical Conference, Beijing, China, 24-27 April 2018 (pp. 1175-1179). Society of Exploration Geophysicists and Chinese Petroleum Society.
 
 
-# CONFERENCE PRESENTATIONS
+## CONFERENCE PRESENTATIONS
 
 * 2023. Peng, Longkang. “Human labeling errors and their impact on ConvNets for satellite image scene classification.” Global Smart Cities Summit (GSCS 2023) cum The 3rd International Conference on Urban Informatics (ICUI 2023), Hong Kong.
 
