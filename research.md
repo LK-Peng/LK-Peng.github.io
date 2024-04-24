@@ -9,11 +9,11 @@ title: Research
 
 * Zang, Y., Qiu, Y., Chen, X., Chen, J., Yang, W., Liu, Y., Peng, L., Shen, M., & Cao, X. (2023). Mapping rapeseed in China during 2017-2021 using Sentinel data: an automated approach integrating rule-based sample generation and a one-class classifier (RSG-OC). GIScience & Remote Sensing, 60(1), 2163576. [Link](https://doi.org/10.1080/15481603.2022.2163576)
 
-* Peng, L., Chen, X., Chen, J., Zhao, W., & Cao, X. (2022). Understanding the role of receptive field of convolutional neural network for cloud detection in Landsat 8 OLI imagery. IEEE Transactions on Geoscience and Remote Sensing, 60, 1-17. [Link](10.1109/TGRS.2022.3150083)
+* Peng, L., Chen, X., Chen, J., Zhao, W., & Cao, X. (2022). Understanding the role of receptive field of convolutional neural network for cloud detection in Landsat 8 OLI imagery. IEEE Transactions on Geoscience and Remote Sensing, 60, 1-17. [Link](https://doi.org/10.1109/TGRS.2022.3150083)
 
 * Peng, L., Liu, L., Chen, X., Chen, J., Cao, X., & Qiu, Y. (2021). Generalization ability of cloud detection network for satellite imagery based on DeepLabv3+. Nat. Remote Sens. Bull., 25(5), 1169-1186. [Link](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20210061/)
 
-* Cai, H., Ren, H., Wu, Q., Peng, L., & Wen, C. (2018, December). Semi-supervised fast algorithm for seismic waveform classification. In International Geophysical Conference, Beijing, China, 24-27 April 2018 (pp. 1175-1179). Society of Exploration Geophysicists and Chinese Petroleum Society.
+* Cai, H., Ren, H., Wu, Q., Peng, L., & Wen, C. (2018, December). Semi-supervised fast algorithm for seismic waveform classification. In International Geophysical Conference, Beijing, China, 24-27 April 2018 (pp. 1175-1179). Society of Exploration Geophysicists and Chinese Petroleum Society. [Link](https://doi.org/10.1190/IGC2018-287)
 
 
 ## CONFERENCE PRESENTATIONS
