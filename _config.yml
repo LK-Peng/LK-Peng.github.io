@@ -2,10 +2,10 @@
 title: Longkang Peng
 description: Ph.D. Candidate<br>Department of Land Surveying and Geo-Informatics,<br>The Hong Kong Polytechnic University
 url: https://lk-peng.github.io/
-avatar: /test.jpg
+avatar: /me.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg2.jpg
 
 # Gems
 plugins:
