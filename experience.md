@@ -5,9 +5,9 @@ title: Experience
 
 ## Education
 
-* Ph.D., The Hong Kong Polytechnic University (**Present**)
-* M.A., Cartography and Geographical Information Engineering, Beijing Normal University (June 2022)
-* B.A., Spatial Information and Digital Technology, University of Electronic Science and Technology of China (June 2019)
+* Ph.D., The Hong Kong Polytechnic University (Aug 2022 - **Present**)
+* M.A., Cartography and Geographical Information Engineering, Beijing Normal University (Sept 2019 - Jun 2022)
+* B.A., Spatial Information and Digital Technology, University of Electronic Science and Technology of China (Sept 2015 - Jun 2019)
 
 
 ## Teaching Experience
